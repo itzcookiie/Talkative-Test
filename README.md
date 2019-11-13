@@ -19,4 +19,8 @@ npm start
   
 - Open up the dev tools for your browser (I am using chrome in this picture)
 - Choose a txt file from anywhere on your computer
+- The program will run in the console and the following should appear
+
+![Screenshot (5)](https://user-images.githubusercontent.com/38388654/68768122-d1add180-0619-11ea-9e4c-9c1e3cfd88cd.png)
+
 - **A word is any character from A-Z and 0-9. The only special character allowed is `&`**
