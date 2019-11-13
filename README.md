@@ -21,6 +21,6 @@ npm start
 - Choose a txt file from anywhere on your computer
 - The program will run in the console and the following should appear
 
-![Screenshot (5)](https://user-images.githubusercontent.com/38388654/68768122-d1add180-0619-11ea-9e4c-9c1e3cfd88cd.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/38388654/68768232-0b7ed800-061a-11ea-8ffa-24727a6124d4.png)
 
 - **A word is any character from A-Z and 0-9. The only special character allowed is `&`**
